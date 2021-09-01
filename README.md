@@ -17,10 +17,8 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Usage
 
-Run mysql -u root -p
-Run SOURCE db/schema.sql
+Run npm run seed
 Run node server.js
-Run node seeds/seed.js
 Run npm start
 
 ## License
