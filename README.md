@@ -1,5 +1,7 @@
 # E-Commerce_Back-End
 
+This webpage uses Express.js API to create Sequelize and MySQL database interactions.
+
 ## User Story
 
 ```md
