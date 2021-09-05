@@ -24,6 +24,8 @@ source db/schema.sql
 Run npm run seed
 Run npm start
 
+https://user-images.githubusercontent.com/82477037/132137069-76500b54-e883-496d-85cb-43b14e6f5551.mp4
+
 ## License
 
 This project is convered under the MIT License.
