@@ -2,6 +2,12 @@
 
 This webpage uses Express.js API to create Sequelize and MySQL database interactions.
 
+https://user-images.githubusercontent.com/82477037/132138250-e18f05a8-b499-4442-a26b-c1b114cc78b1.mp4
+
+https://user-images.githubusercontent.com/82477037/132138346-071d8426-86d2-45cb-9801-cd35e4b7e36c.mp4
+
+https://user-images.githubusercontent.com/82477037/132138449-9bb2d11b-03ac-4f99-9ea1-9cdbe9cd364b.mp4
+
 ## User Story
 
 ```md

@@ -99,7 +99,7 @@ router.delete("/:id", (req, res) => {
         res.status(404).json({ message: 'There was no category found with this id.' });
         return;
       }
-      res.json(dbCategoryData);
+      res.json(data);
     })
     .catch(err => {
       console.log(err);
